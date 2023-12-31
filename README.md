@@ -17,6 +17,7 @@
 💬 Ask me about JavaScript, Chatbots, CSS, HTML, and React
 
 😄 Pronouns: She/Her
+
 ⚡ Fun fact: I'm a vegetarian 🌱, love music, and enjoy learning instruments 🎵
 
 ## Tools and Technologies 
