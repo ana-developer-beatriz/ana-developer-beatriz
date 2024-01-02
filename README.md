@@ -6,7 +6,7 @@
 ## Hello👋🏽 Welcome to my Github profile.
 🤞🏽 My name is Ana Beatriz, but I like to be called Beatriz or Bia.
 
-❗Due to SSO issues, I lost my first GitHub account. Please, visit my old projects <a href="https://github.com/ana-hh08"> Old projects ↗️ </a> 
+❗ Due to SSO issues, I lost my first GitHub account. Please, visit my old projects <a href="https://github.com/ana-hh08"> Old projects ↗️ </a> 
 
 🔭 Currently working on chatbot development using the Blip platform, C# for APIs, and React for FrontEnd
  
